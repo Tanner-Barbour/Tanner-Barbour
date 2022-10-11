@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 Reach Me:
 --------------------
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)(https://www.linkedin.com/in/tanner-barbour-42976b220/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tanner-barbour-42976b220/)
 
 <!---
 Tanner-Barbour/Tanner-Barbour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Tanner-Barbour
+![profile banner](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/virginia-tech-campus-burruss-hall-betsy-knapp.jpg)
+
+## Biography:
 - 👀 I’m interested in the intersection of biology and data science
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-Reach Me:
---------------------
+
+## Reach Me At:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tanner-barbour-42976b220/)
 
 <!---

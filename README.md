@@ -1,4 +1,4 @@
-![profile banner](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/virginia-tech-campus-burruss-hall-betsy-knapp.jpg)
+<img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/virginia-tech-campus-burruss-hall-betsy-knapp.jpg" width="800" height="300"/>
 
 ## Biography:
 - 👀 I’m interested in the intersection of biology and data science

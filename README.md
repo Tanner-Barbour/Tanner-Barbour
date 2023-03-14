@@ -2,7 +2,7 @@ sl<img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1
 
 ## Biography
 ---
-My name is Tanner Barbour and I am finishing a bachelor's degree in Human Nutrition, Foods, and Exercise from Virginia Tech. I am interested in the intersection of healthcare and data science. I am currently working on a bioinformatics pipeline for handling NGS data but enjoy all kinds of data analytics with python and am developing JS skills to build out a portfolio website. I'm looking to expand my career as a healthcare analyst but enjoy building out this page along the way.
+My name is Tanner Barbour and I am finishing a bachelor's degree in Human Nutrition, Foods, and Exercise from Virginia Tech. I am interested in the intersection of healthcare and data science. I am currently working on building a dashboard app for a drug discovery project but enjoy all kinds of data analytics with python and R. I'm looking to expand my career as a healthcare analyst but enjoy building out this page along the way.
 
 ## Connect with me:
 ---
